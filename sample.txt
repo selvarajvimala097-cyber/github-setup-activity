@@ -1,0 +1,2 @@
+I have successfully created a GitHub account, set up my profile, and created a repository. 
+This file is uploaded to demonstrate basic file upload and repository usage.
